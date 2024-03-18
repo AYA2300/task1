@@ -1,0 +1,33 @@
+.single-property .info-table {
+    border-radius: 10px;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.15);
+    padding: 35px 30px;
+    margin-left: 60px;
+  }
+
+  .single-property .main-image img {
+    float: none;
+  }
+  .single-property .accordion {
+    margin-top: 60px;
+    margin-left: 0px;
+    margin-right: 0px;
+    --bs-accordion-border-radius: 10px;
+    --bs-accordion-inner-border-radius: 10px;
+    --bs-accordion-bg: #fafafa;
+    --bs-accordion-border-color: none;
+    border: none !important;
+  }
+  .single-property .info-table {
+    border-radius: 10px;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.15);
+    padding: 35px 30px;
+    margin-left: 60px;
+  }
+
+
+
+
+
+
+
